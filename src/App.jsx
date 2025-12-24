@@ -380,7 +380,7 @@ const StakeholderSection = ({ onViewRoadmap }) => {
       drivers: [
         { label: "Faster Penetration", val: "15-20%" },
         { label: "Adherence Improvement", val: "22%" },
-        { label: "Rebate Optimization", val: "10-15%" }
+        { label: "Rebate Optimization", val: "8-12%" }
       ]
     }
   };
