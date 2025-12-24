@@ -367,7 +367,7 @@ const StakeholderSection = ({ onViewRoadmap }) => {
       riskDesc: "42% cognitive comorbidity rate in Diabetes/CHF plans. 12 regional plans exited 2024-2025.",
       upside: "17.9:1 ROI",
       drivers: [
-        { label: "Enrollment Growth", val: "+15%" },
+        { label: "Enrollment Growth", val: "12-15%" },
         { label: "Preventive Savings", val: "$131M" },
         { label: "Risk Adj. Lift", val: "8-12%" }
       ]
