@@ -702,7 +702,7 @@ const FinancialImpactSection = () => {
                 </div>
               </div>
               <a 
-                href="./prospectus.pdf" 
+                href="./Actuarial_Imperative_Prospectus.pdf" 
                 download="Actuarial_Imperative_Prospectus.pdf"
                 className="block w-full mt-8 bg-white text-slate-900 font-bold py-3 rounded-lg hover:bg-blue-50 transition-colors text-center flex items-center justify-center"
               >
